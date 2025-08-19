@@ -1,6 +1,6 @@
 import pathlib
 
-YEAR = '2015'
+YEAR = '2016'
 
 pathlib.Path(f'figures/{YEAR}').mkdir(parents=True)
 
